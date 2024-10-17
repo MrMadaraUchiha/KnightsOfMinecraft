@@ -1,26 +1,27 @@
-# 
+#
 # AutoAnnouncer Settings by Sharkiller #
+# Edit by MrMadara
 Settings:
   Interval: 5
   InSeconds: false
-  Random: false
+  Random: true # Deixa os anúncios mais dinâmicos, exibindo-os de forma aleatória
   Permission: false
 Announcer:
-  Tag: '&GOLD;[Berrante da Montanha]'
+  Tag: '&6[Berrante da Montanha]' # Mantém o estilo de tag consistente
   ToGroups: false
   Groups:
   - Default
   Strings:
-  - '&2O porto de Rhodes fica atraz de uma cadeia de montanhas.Pegue o barco para ir a locais para explorar e construir !'
-  - '&2Use o comando /kom para ver os comandos disponiveis !'
-  - '&2KoM, agente se ve por aqui !'
-  - '&2Dungeons estao escondidas pelo vasto mapa ! Procure-as !'
-  - '&2Existem muitas coisas secretas como baus, dungeons e lojas !'
-  - '&2Por mais dificil que pareca, nunca desista bravo aventureiro! !'
-  - '&2Nao faca guildas 100% fechadas, e muros de ate 10 blocos de altura apenas !'     
-  - '&2Eh proibido construir na agua ! Por que castelos nao boiam !(se for um barco muito bonito pode)' 
-  - '&2Ladinagem, roubos, furtos, espionagem, trairagem sao permitidos no servidor !!' 
-  - '&2Quanto mais longe das cidades voce esta, mais forte ficam os mobs !!'
-  - '&2Perdeu sua espada sagrada do dragao alado do alasca ? Sinto muito ! Staff nao recupera items !!'  
-  - '&2Aventure-se ! Explore o vasto mundo !!' 
-  - '&2Meu berrante eh tao alto que todos continentes podem escutar !!' 
+  - '&2O porto de Rhodes fica escondido atrás de montanhas. Pegue um barco e explore novas terras para construir!'
+  - '&2Use o comando &a/kom&2 para ver todos os comandos disponíveis!'
+  - '&2KoM, &a"nos encontramos por aqui"!'
+  - '&2Misteriosas dungeons estão espalhadas pelo mapa... Será que você consegue encontrá-las?'
+  - '&2Há muitos segredos no mapa: baús, dungeons e até lojas escondidas!'
+  - '&2Mesmo que o caminho pareça difícil, nunca desista, bravo aventureiro!'
+  - '&2Construa com estratégia: guildas não devem ser 100% fechadas e os muros podem ter no máximo 10 blocos!'
+  - '&2É proibido construir na água! Afinal, castelos não flutuam... (A menos que seja um barco muito bem feito!)'
+  - '&2Ladrões, espiões e traidores... tudo é permitido aqui! Cuidado em quem confia!'
+  - '&2Quanto mais distante das cidades, mais fortes se tornam os monstros. Prepare-se!'
+  - '&2Perdeu sua espada lendária do Dragão Alado do Alasca? Sinto muito! A staff não recupera itens perdidos.'
+  - '&2Desbrave o desconhecido! O mundo está cheio de aventuras esperando por você!'
+  - '&2Meu berrante ecoa tão alto que até os confins dos continentes podem ouvi-lo!'
